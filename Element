@@ -1,0 +1,10 @@
+// Get elements from a list
+String color1 = moreColors.get(0);
+String color2 = moreColors[0];
+System.assertEquals(color1, color2);
+// Iterate over a list to read elements
+System.debug('Print out the colors in moreColors:');
+for(String color : moreColors) {
+    // Write value to the debug log
+    System.debug(color);
+}
