@@ -1,0 +1,1 @@
+EmailManager.sendMail('Your email address', 'Trailhead Tutorial', '123 body');
