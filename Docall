@@ -1,0 +1,4 @@
+@Future (callout=true)
+  public static void doCalloutFromFuture() {
+   //Add code to perform callout
+}
